@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><application xmlns="http://ns.adobe.com/air/application/1.0">
+
+  <id>hm.orz.c.air.shout</id>
+
+  <version>2.0.a</version>
+
+  <filename>shout</filename>
+
+  <description>ミニブログへのクロスポストツール。投稿するのみで、履歴を読んだりはできない。
+対応ミニブログ：Twitter, Wassr, Timelog, もごもご, HatenaHaiku, Jaiku, FC2PIYO</description>
+
+  <name>shout</name>
+
+  <copyright>UTAGEWORKS</copyright>
+
+  <initialWindow>
+    <content>shout.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+    <visible>true</visible>
+    <maximizable>false</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>false</resizable>
+  </initialWindow>
+
+  <icon>
+    
+    
+    
+    
+    
+    
+    
+    
+    <image128x128>shout_icon.png</image128x128>
+    <image48x48>shout_icon48.png</image48x48>
+    <image32x32>shout_icon32.png</image32x32>
+    <image16x16>shout_icon16.png</image16x16>
+  </icon>
+
+  <customUpdateUI>false</customUpdateUI>
+
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+
+
+
+</application>
